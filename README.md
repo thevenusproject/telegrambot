@@ -78,5 +78,8 @@ For DB connection:
 
 Script must be handled through CRONJOB with access of every 1 minute (or 30 secs, as it is now on live server).
 
+## Database
+For DB structure ask https://github.com/scsmash3r or https://github.com/kinoshni68
+
 ## Live Bot Demo
 https://telegram.me/TheVenusProjectBot
