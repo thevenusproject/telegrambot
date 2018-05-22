@@ -3,7 +3,7 @@
 ini_set('display_errors', 'On');
 error_reporting('E_ALL');
 
-const URL = "https://api.telegram.org/bot111111111:kkkkkkkkkkkkkkkkkkkkkkkkkkkkk";
+const URL = "https://api.telegram.org/{Token}";
 const VK_ACCESS_TOKEN = "";
 
 $dblocation = "localhost";        // Имя сервера
